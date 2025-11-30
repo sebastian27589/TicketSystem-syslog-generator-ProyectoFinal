@@ -1,0 +1,6 @@
+## Nornir Defaults File 
+---
+platform: cisco_ios_telnet
+username: smrm0002 
+password: cnum27589H 
+

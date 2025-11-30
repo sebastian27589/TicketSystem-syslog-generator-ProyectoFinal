@@ -1,0 +1,14 @@
+---
+R-SROSARIO:
+  hostname: "192.168.100.183"
+  port: "33059"
+  platform: "cisco_ios_telnet"
+  groups:
+    - "Routers" 
+
+SW-SROSARIO:
+  hostname: "192.168.100.183"
+  port: "33040"
+  platform: "cisco_ios_telnet"
+  groups:
+    - "Switches"

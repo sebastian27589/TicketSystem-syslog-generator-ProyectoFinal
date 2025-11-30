@@ -1,0 +1,12 @@
+---
+Routers:
+  groups:
+  - "global"
+
+Switches:
+  groups:
+  - "global"
+
+global:
+  username: "smrm0002"
+  password: "cnum27589H"

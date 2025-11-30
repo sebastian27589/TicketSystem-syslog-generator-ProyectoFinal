@@ -1,0 +1,345 @@
+tickets:
+- asignado_a: "Carlos P\xE9rez"
+  descripcion: Interfaz Ethernet0/1 DOWN
+  dispositivo: R1
+  estado: cerrado
+  fecha: '2025-10-16 15:33:43'
+  fecha_cierre: '2025-10-16 15:33:58'
+  id: 1
+  tipo: interfaz_caida
+- asignado_a: "Luis Rodr\xEDguez"
+  descripcion: OSPF inactivo
+  dispositivo: S1
+  estado: cerrado
+  fecha: '2025-10-16 15:34:20'
+  fecha_cierre: '2025-10-16 15:34:35'
+  id: 2
+  tipo: ruta_fallida
+- asignado_a: "Carlos P\xE9rez"
+  descripcion: Interfaz Ethernet0/1 DOWN
+  dispositivo: R1
+  estado: cerrado
+  fecha: '2025-10-16 15:34:52'
+  fecha_cierre: '2025-10-16 15:35:07'
+  id: 3
+  tipo: interfaz_caida
+- asignado_a: "Carlos P\xE9rez"
+  descripcion: Interfaz Ethernet0/1 DOWN
+  dispositivo: R1
+  estado: cerrado
+  fecha: '2025-10-16 18:36:36'
+  fecha_cierre: '2025-10-16 18:36:54'
+  id: 4
+  tipo: interfaz_caida
+- asignado_a: "Luis Rodr\xEDguez"
+  descripcion: OSPF inactivo
+  dispositivo: S1
+  estado: cerrado
+  fecha: '2025-10-16 18:37:16'
+  fecha_cierre: '2025-10-16 18:37:34'
+  id: 5
+  tipo: ruta_fallida
+- asignado_a: "Carlos P\xE9rez"
+  descripcion: Interfaz Ethernet0/1 DOWN
+  dispositivo: R1
+  estado: cerrado
+  fecha: '2025-10-16 18:37:49'
+  fecha_cierre: '2025-10-16 19:11:25'
+  id: 6
+  tipo: interfaz_caida
+- asignado_a: "Carlos P\xE9rez"
+  descripcion: Interfaz Ethernet0/1 DOWN
+  dispositivo: R1
+  estado: cerrado
+  fecha: '2025-10-16 19:11:32'
+  fecha_cierre: '2025-10-16 19:11:42'
+  id: 7
+  tipo: interfaz_caida
+- asignado_a: "Luis Rodr\xEDguez"
+  descripcion: OSPF inactivo
+  dispositivo: S1
+  estado: cerrado
+  fecha: '2025-10-16 19:12:02'
+  fecha_cierre: '2025-10-16 19:12:12'
+  id: 8
+  tipo: ruta_fallida
+- asignado_a: "Carlos P\xE9rez"
+  descripcion: Interfaz Ethernet0/1 DOWN
+  dispositivo: R1
+  estado: cerrado
+  fecha: '2025-10-16 19:12:23'
+  fecha_cierre: '2025-10-16 19:12:36'
+  id: 9
+  tipo: interfaz_caida
+- asignado_a: "Luis Rodr\xEDguez"
+  descripcion: OSPF inactivo
+  dispositivo: S1
+  estado: cerrado
+  fecha: '2025-10-16 19:12:46'
+  fecha_cierre: '2025-10-16 19:12:56'
+  id: 10
+  tipo: ruta_fallida
+- asignado_a: "Carlos P\xE9rez"
+  descripcion: Interfaz Ethernet0/1 DOWN
+  dispositivo: R1
+  estado: cerrado
+  fecha: '2025-10-16 19:13:09'
+  fecha_cierre: '2025-10-16 19:13:19'
+  id: 11
+  tipo: interfaz_caida
+- asignado_a: "Luis Rodr\xEDguez"
+  descripcion: OSPF inactivo
+  dispositivo: S1
+  estado: cerrado
+  fecha: '2025-10-16 19:13:30'
+  fecha_cierre: '2025-10-16 19:13:43'
+  id: 12
+  tipo: ruta_fallida
+- asignado_a: "Carlos P\xE9rez"
+  descripcion: Interfaz Ethernet0/1 DOWN
+  dispositivo: R1
+  estado: cerrado
+  fecha: '2025-10-16 19:13:53'
+  fecha_cierre: '2025-10-16 19:14:03'
+  id: 13
+  tipo: interfaz_caida
+- asignado_a: "Luis Rodr\xEDguez"
+  descripcion: OSPF inactivo
+  dispositivo: S1
+  estado: cerrado
+  fecha: '2025-10-16 19:14:16'
+  fecha_cierre: '2025-10-16 19:14:26'
+  id: 14
+  tipo: ruta_fallida
+- asignado_a: "Carlos P\xE9rez"
+  descripcion: Interfaz Ethernet0/1 DOWN
+  dispositivo: R1
+  estado: cerrado
+  fecha: '2025-10-16 19:14:37'
+  fecha_cierre: '2025-10-16 19:15:24'
+  id: 15
+  tipo: interfaz_caida
+- asignado_a: "Luis Rodr\xEDguez"
+  descripcion: OSPF inactivo
+  dispositivo: S1
+  estado: cerrado
+  fecha: '2025-10-16 21:07:21'
+  fecha_cierre: '2025-10-16 21:07:31'
+  id: 16
+  tipo: ruta_fallida
+- asignado_a: "Carlos P\xE9rez"
+  descripcion: Interfaz Ethernet0/1 DOWN
+  dispositivo: R1
+  estado: cerrado
+  fecha: '2025-10-16 21:07:45'
+  fecha_cierre: '2025-10-16 21:07:55'
+  id: 17
+  tipo: interfaz_caida
+- asignado_a: "Luis Rodr\xEDguez"
+  descripcion: OSPF inactivo
+  dispositivo: S1
+  estado: cerrado
+  fecha: '2025-10-16 21:08:05'
+  fecha_cierre: '2025-10-16 21:08:15'
+  id: 18
+  tipo: ruta_fallida
+- asignado_a: "Carlos P\xE9rez"
+  descripcion: Interfaz Ethernet0/1 DOWN
+  dispositivo: R1
+  estado: cerrado
+  fecha: '2025-10-16 21:08:25'
+  fecha_cierre: '2025-10-16 21:08:35'
+  id: 19
+  tipo: interfaz_caida
+- asignado_a: "Luis Rodr\xEDguez"
+  descripcion: OSPF inactivo
+  dispositivo: S1
+  estado: cerrado
+  fecha: '2025-10-16 21:08:45'
+  fecha_cierre: '2025-10-16 21:08:58'
+  id: 20
+  tipo: ruta_fallida
+- asignado_a: "Carlos P\xE9rez"
+  descripcion: Interfaz Ethernet0/1 DOWN
+  dispositivo: R1
+  estado: cerrado
+  fecha: '2025-10-16 21:09:08'
+  fecha_cierre: '2025-10-16 21:09:18'
+  id: 21
+  tipo: interfaz_caida
+- asignado_a: "Carlos P\xE9rez"
+  descripcion: Interfaz Ethernet0/1 DOWN
+  dispositivo: R1
+  estado: cerrado
+  fecha: '2025-10-19 14:28:44'
+  fecha_cierre: '2025-10-19 14:28:55'
+  id: 22
+  tipo: interfaz_caida
+- asignado_a: "Luis Rodr\xEDguez"
+  descripcion: OSPF inactivo
+  dispositivo: S1
+  estado: cerrado
+  fecha: '2025-10-19 14:29:11'
+  fecha_cierre: '2025-10-19 14:29:22'
+  id: 23
+  tipo: ruta_fallida
+- asignado_a: "Carlos P\xE9rez"
+  descripcion: Interfaz Ethernet0/1 DOWN
+  dispositivo: R1
+  estado: cerrado
+  fecha: '2025-10-19 14:29:32'
+  fecha_cierre: '2025-11-30 18:01:21'
+  id: 24
+  tipo: interfaz_caida
+- asignado_a: "Carlos P\xE9rez"
+  descripcion: Interfaz Ethernet0/1 DOWN
+  dispositivo: R-SROSARIO
+  estado: cerrado
+  fecha: '2025-11-30 18:01:30'
+  fecha_cierre: '2025-11-30 18:01:42'
+  id: 25
+  tipo: interfaz_caida
+- asignado_a: "Luis Rodr\xEDguez"
+  descripcion: OSPF inactivo
+  dispositivo: SW-SROSARIO
+  estado: cerrado
+  fecha: '2025-11-30 18:02:00'
+  fecha_cierre: '2025-11-30 18:02:12'
+  id: 26
+  tipo: ruta_fallida
+- asignado_a: "Carlos P\xE9rez"
+  descripcion: Interfaz Ethernet0/1 DOWN
+  dispositivo: R-SROSARIO
+  estado: cerrado
+  fecha: '2025-11-30 18:02:23'
+  fecha_cierre: '2025-11-30 18:02:35'
+  id: 27
+  tipo: interfaz_caida
+- asignado_a: "Luis Rodr\xEDguez"
+  descripcion: OSPF inactivo
+  dispositivo: SW-SROSARIO
+  estado: cerrado
+  fecha: '2025-11-30 18:02:46'
+  fecha_cierre: '2025-11-30 18:02:58'
+  id: 28
+  tipo: ruta_fallida
+- asignado_a: "Carlos P\xE9rez"
+  descripcion: Interfaz Ethernet0/1 DOWN
+  dispositivo: R-SROSARIO
+  estado: cerrado
+  fecha: '2025-11-30 18:03:09'
+  fecha_cierre: '2025-11-30 18:03:21'
+  id: 29
+  tipo: interfaz_caida
+- asignado_a: "Luis Rodr\xEDguez"
+  descripcion: OSPF inactivo
+  dispositivo: SW-SROSARIO
+  estado: cerrado
+  fecha: '2025-11-30 18:03:32'
+  fecha_cierre: '2025-11-30 18:03:44'
+  id: 30
+  tipo: ruta_fallida
+- asignado_a: "Carlos P\xE9rez"
+  descripcion: Interfaz Ethernet0/1 DOWN
+  dispositivo: R-SROSARIO
+  estado: cerrado
+  fecha: '2025-11-30 18:03:55'
+  fecha_cierre: '2025-11-30 18:04:07'
+  id: 31
+  tipo: interfaz_caida
+- asignado_a: "Luis Rodr\xEDguez"
+  descripcion: OSPF inactivo
+  dispositivo: SW-SROSARIO
+  estado: cerrado
+  fecha: '2025-11-30 18:04:18'
+  fecha_cierre: '2025-11-30 18:04:30'
+  id: 32
+  tipo: ruta_fallida
+- asignado_a: "Carlos P\xE9rez"
+  descripcion: Interfaz Ethernet0/1 DOWN
+  dispositivo: R-SROSARIO
+  estado: cerrado
+  fecha: '2025-11-30 18:04:41'
+  fecha_cierre: '2025-11-30 18:04:53'
+  id: 33
+  tipo: interfaz_caida
+- asignado_a: "Luis Rodr\xEDguez"
+  descripcion: OSPF inactivo
+  dispositivo: SW-SROSARIO
+  estado: cerrado
+  fecha: '2025-11-30 18:05:04'
+  fecha_cierre: '2025-11-30 18:05:16'
+  id: 34
+  tipo: ruta_fallida
+- asignado_a: "Carlos P\xE9rez"
+  descripcion: Interfaz Ethernet0/1 DOWN
+  dispositivo: R-SROSARIO
+  estado: cerrado
+  fecha: '2025-11-30 18:05:27'
+  fecha_cierre: '2025-11-30 18:05:39'
+  id: 35
+  tipo: interfaz_caida
+- asignado_a: "Luis Rodr\xEDguez"
+  descripcion: OSPF inactivo
+  dispositivo: SW-SROSARIO
+  estado: cerrado
+  fecha: '2025-11-30 18:05:50'
+  fecha_cierre: '2025-11-30 18:06:02'
+  id: 36
+  tipo: ruta_fallida
+- asignado_a: "Carlos P\xE9rez"
+  descripcion: Interfaz Ethernet0/1 DOWN
+  dispositivo: R-SROSARIO
+  estado: cerrado
+  fecha: '2025-11-30 18:06:13'
+  fecha_cierre: '2025-11-30 18:06:25'
+  id: 37
+  tipo: interfaz_caida
+- asignado_a: "Luis Rodr\xEDguez"
+  descripcion: OSPF inactivo
+  dispositivo: SW-SROSARIO
+  estado: cerrado
+  fecha: '2025-11-30 18:06:36'
+  fecha_cierre: '2025-11-30 18:20:51'
+  id: 38
+  tipo: ruta_fallida
+- asignado_a: "Carlos P\xE9rez"
+  descripcion: Interfaz Ethernet0/1 DOWN
+  dispositivo: R-SROSARIO
+  estado: cerrado
+  fecha: '2025-11-30 18:20:57'
+  fecha_cierre: '2025-11-30 18:21:08'
+  id: 39
+  tipo: interfaz_caida
+- asignado_a: "Luis Rodr\xEDguez"
+  descripcion: OSPF inactivo
+  dispositivo: SW-SROSARIO
+  estado: cerrado
+  fecha: '2025-11-30 18:21:27'
+  fecha_cierre: '2025-11-30 18:21:38'
+  id: 40
+  tipo: ruta_fallida
+- asignado_a: "Carlos P\xE9rez"
+  descripcion: Interfaz Ethernet0/1 DOWN
+  dispositivo: R-SROSARIO
+  estado: cerrado
+  fecha: '2025-11-30 18:21:50'
+  fecha_cierre: '2025-11-30 18:22:01'
+  id: 41
+  tipo: interfaz_caida
+- asignado_a: "Luis Rodr\xEDguez"
+  descripcion: OSPF inactivo
+  dispositivo: SW-SROSARIO
+  estado: cerrado
+  fecha: '2025-11-30 18:22:13'
+  fecha_cierre: '2025-11-30 18:22:24'
+  id: 42
+  tipo: ruta_fallida
+- asignado_a: "Carlos P\xE9rez"
+  descripcion: Interfaz Ethernet0/1 DOWN
+  dispositivo: R-SROSARIO
+  estado: cerrado
+  fecha: '2025-11-30 18:22:36'
+  fecha_cierre: '2025-11-30 18:22:47'
+  id: 43
+  tipo: interfaz_caida

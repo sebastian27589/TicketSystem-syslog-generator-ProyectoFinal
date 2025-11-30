@@ -1,0 +1,17 @@
+responsables:
+  interfaz_caida: "tecnico_campo"
+  cpu_alta: "infraestructura"
+  ruta_fallida: "ingeniero_backbone"
+
+personas:
+  tecnico_campo:
+    nombre: "Carlos Pérez"
+    correo: "carlosperez@gmail.com"
+
+  infraestructura:
+    nombre: "Ana Gómez"
+    correo: "anagomez@gmail.com"
+
+  ingeniero_backbone:
+    nombre: "Luis Rodríguez"
+    correo: "luisrodriguez@gmail.com"
